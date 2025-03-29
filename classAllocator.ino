@@ -8,9 +8,9 @@
 
 #include <HTTPClient.h>
 
-
-const char* ssid = "Searching....";
-const char* password = "$$Bidyut$$";
+//iphone hotspot doesn't work
+const char* ssid = "wifi_name_android";
+const char* password = "xxxx";
 
 #define redPin 32
 #define greenPin 12
